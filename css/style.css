@@ -7,12 +7,16 @@ body{
 }
 
 .quem-somos{
-    background-color: rgb(108, 108, 224);
+    background-color: rgb(212, 77, 36);
     color: white;
 }
 
+.img{
+    padding-bottom: 10px;
+}
+
 .margin{
-    padding-bottom: 50px;
+    padding-bottom: 35px;
     padding-top: 10px;
 }
 
@@ -24,5 +28,13 @@ body{
 .bg-footer{
     background-color: black;
     color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
 
+}
+
+.titulo{
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 5px;
 }
